@@ -1,0 +1,265 @@
+{
+  "event_info": {
+    "title": "National Level Poster Competition",
+    "theme": "Recent Trends in Information Technology",
+    "host_institute": "R. N. G. Patel Institute of Technology",
+    "host_department": "Information Technology (IT) Department",
+    "venue": "R. N. G. Patel Institute of Technology, Bardoli",
+    "date": "2026-09-11",
+    "day": "Friday",
+    "organizers": [
+      "IEEE Gujarat Section",
+      "IEEE RNGPIT Student Branch",
+      "IEEE Signal Processing Society RNGPIT Student Branch Chapter",
+      "IEEE Women in Engineering RNGPIT Student Branch Chapter"
+    ]
+  },
+  "event": {
+    "title": "National Level Poster Presentation Competition",
+    "theme": "Recent Trends in Information Technology",
+    "rules_and_guidelines": [
+      {
+        "section": "Eligibility & Registration",
+        "rules": [
+          "The competition is open to Undergraduate Students, Postgraduate Students, and Research Scholars from recognized institutions.",
+          "Participation is allowed in teams of 2 to 4 members.",
+          "Each participant can be a member of only one team.",
+          "The competition is open to both IEEE and non-IEEE participants.",
+          "Participants must register through the official website with complete and accurate information.",
+          "IEEE participants must provide valid IEEE ID Card proof for membership verification.",
+          "Non-IEEE participants must pay the applicable ₹50 per-person registration fee."
+        ]
+      },
+      {
+        "section": "Registration Verification & Team ID",
+        "rules": [
+          "After registration, all submitted information and documents will be verified by the event management team.",
+          "Participants must regularly check their registration status on the official website.",
+          "The application will remain Pending until it is verified and approved.",
+          "After successful verification and approval, the participant/team will receive a confirmation email.",
+          "The confirmation email will contain the team's Unique Team ID.",
+          "The same Team ID will also be displayed on the participant's website dashboard/profile.",
+          "Participants must keep their Team ID safe for all further event activities.",
+          "Invalid information or documents may result in rejection of the registration."
+        ]
+      },
+      {
+        "section": "Idea Submission & Shortlisting",
+        "rules": [
+          "After registration and verification, teams must submit their poster idea/abstract through the official website.",
+          "All submitted ideas will undergo an initial screening by the organizing/evaluation committee.",
+          "A maximum of 20 teams will be shortlisted for the final presentation round.",
+          "Shortlisting will be based on relevance to the theme, innovation and originality, technical quality, practical applicability, and clarity of the proposed work.",
+          "Only shortlisted teams will be eligible for the final poster presentation.",
+          "The decision of the screening committee regarding shortlisting will be final."
+        ]
+      },
+      {
+        "section": "Competition Tracks",
+        "tracks": [
+          "Artificial Intelligence & Deep Learning",
+          "Cybersecurity, Privacy & Blockchain",
+          "Sustainable Engineering & Smart Technologies",
+          "Internet of Things (IoT), Embedded Systems & Robotics",
+          "Healthcare Technologies & Biomedical Engineering",
+          "Open Innovation & Interdisciplinary Research"
+        ],
+        "note": "The submitted poster must have a clear connection to the selected track and the event theme."
+      },
+      {
+        "section": "Poster Requirements & Preparation",
+        "rules": [
+          "Shortlisted teams must use the official poster template provided by the organizers.",
+          "The poster must be prepared in A2 size.",
+          "The poster should present an original idea, project, research work, innovation, application, or technical solution.",
+          "The poster should be clear, technically sound, visually organized, and easy to understand.",
+          "Recommended sections include Abstract, Introduction, Proposed Approach, Results, Discussion, Conclusion, and References.",
+          "Participants must provide proper references and acknowledgements for external content, data, images, or ideas.",
+          "Participants are responsible for bringing the printed poster to the venue.",
+          "Digital presentation slides are not required unless specifically instructed by the organizing committee."
+        ]
+      },
+      {
+        "section": "Originality & Academic Integrity",
+        "rules": [
+          "The submitted work must be original and created by the participating team.",
+          "Plagiarism, copied work, fabricated results, false claims, or unauthorized use of another person's work are strictly prohibited.",
+          "The organizing committee reserves the right to verify the originality of submitted work.",
+          "Any violation of academic integrity may result in immediate disqualification."
+        ]
+      },
+      {
+        "section": "Final Poster Presentation",
+        "rules": [
+          "Only shortlisted teams will participate in the final poster presentation.",
+          "Each team will receive a total of 10 minutes for evaluation.",
+          "The presentation includes 7 minutes for poster presentation and 3 minutes for Q&A.",
+          "All team members are encouraged to participate in the presentation.",
+          "Teams must remain within the allotted time.",
+          "Participants must be present at the venue at least 30 minutes before their scheduled presentation.",
+          "The poster must be displayed at the assigned location before the presentation begins.",
+          "Participants should be prepared to explain their work and answer questions from the judges."
+        ]
+      },
+      {
+        "section": "Judging & Evaluation",
+        "criteria": [
+          {
+            "criterion": "Innovation and Originality",
+            "weightage": "20%"
+          },
+          {
+            "criterion": "Technical Content and Understanding",
+            "weightage": "25%"
+          },
+          {
+            "criterion": "Relevance to the Theme",
+            "weightage": "15%"
+          },
+          {
+            "criterion": "Practical Applicability / Impact",
+            "weightage": "15%"
+          },
+          {
+            "criterion": "Poster Design and Clarity",
+            "weightage": "10%"
+          },
+          {
+            "criterion": "Presentation Skills",
+            "weightage": "10%"
+          },
+          {
+            "criterion": "Question & Answer Performance",
+            "weightage": "5%"
+          }
+        ],
+        "total_weightage": "100%",
+        "rules": [
+          "Judges may ask questions related to the technical content, methodology, implementation, results, and applications.",
+          "Participants must be able to explain and defend their work during the Q&A session.",
+          "The decision of the judging panel will be final and binding."
+        ]
+      },
+      {
+        "section": "General Rules",
+        "rules": [
+          "Participants must carry a valid college/institution ID card or other required identification.",
+          "Participants are responsible for their own travel and personal belongings unless otherwise communicated by the organizers.",
+          "The organizing committee will not be responsible for loss or damage to personal belongings.",
+          "Participants must maintain discipline and professional conduct throughout the event.",
+          "Misconduct, misbehavior, disruption, or violation of event guidelines may result in disqualification.",
+          "Participants must follow all instructions provided by the organizing committee and event volunteers.",
+          "The organizing committee reserves the right to make necessary changes to the event schedule or procedures. Significant changes will be communicated to registered participants."
+        ]
+      },
+      {
+        "section": "Important Rules & Final Decision",
+        "rules": [
+          "Participants must follow all announced deadlines, instructions, and submission requirements.",
+          "Failure to follow the rules may result in cancellation or disqualification.",
+          "In case of any dispute, the decision of the organizing committee and judging panel will be final."
+        ]
+      }
+    ]
+  },
+  "technical_tracks": [
+    {
+      "track_id": 1,
+      "title": "Artificial Intelligence & Deep Learning",
+      "sub_topics": [
+        "ML & DL",
+        "Computer Vision",
+        "NLP",
+        "Generative AI"
+      ]
+    },
+    {
+      "track_id": 2,
+      "title": "Cybersecurity, Privacy & Blockchain",
+      "sub_topics": [
+        "Ethical Hacking",
+        "Network Security",
+        "Digital Forensics",
+        "Cryptography",
+        "Blockchain",
+        "Secure Systems"
+      ]
+    },
+    {
+      "track_id": 3,
+      "title": "Sustainable Engineering & Smart Technologies",
+      "sub_topics": [
+        "Smart Cities",
+        "Renewable Energy",
+        "Green Computing",
+        "Healthcare Tech",
+        "Agri Tech",
+        "Env. Monitoring"
+      ]
+    },
+    {
+      "track_id": 4,
+      "title": "Internet of Things, Embedded Systems & Robotics",
+      "sub_topics": [
+        "IoT Solutions",
+        "Embedded Systems",
+        "Robotics",
+        "Smart Sensors",
+        "Edge Computing",
+        "Autonomous Systems"
+      ]
+    },
+    {
+      "track_id": 5,
+      "title": "Healthcare Technologies & Biomedical Engineering",
+      "sub_topics": [
+        "AI in Healthcare",
+        "Biomedical Signal Processing",
+        "Medical Image Analysis",
+        "Digital Health",
+        "Wearables",
+        "Telemedicine"
+      ]
+    },
+    {
+      "track_id": 6,
+      "title": "Open Innovation & Interdisciplinary Research",
+      "sub_topics": [
+        "Social Impact Solutions",
+        "Assistive Tech",
+        "Smart Education",
+        "AR/VR",
+        "Product Design",
+        "Interdisciplinary"
+      ]
+    }
+  ],
+  "guidelines": {
+    "team_size": {
+      "min_members": 2,
+      "max_members": 4
+    },
+    "presentation": {
+      "total_time_minutes": 10,
+      "presentation_minutes": 7,
+      "q_and_a_minutes": 3
+    },
+    "format": "Single Round Evaluation",
+    "eligibility": [
+      "UG/PG Students",
+      "Research Scholars"
+    ]
+  },
+  "contact": {
+    "email": "ieee_sb@rngpit.ac.in",
+    "phone": "+91 99130 96458",
+    "instagram": "rngpit.ieee.committee",
+    "registration": "QR Code provided on flyer"
+  },
+  "schedule": {
+    "deadline": "31 Aug",
+    "acceptance": "5 Sep",
+    "event_date": "11 Sep"
+  },
+  "document_date": "14/08/2026"
+}

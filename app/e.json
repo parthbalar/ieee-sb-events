@@ -1,0 +1,117 @@
+{
+  "event_info": {
+    "title": "National Level Poster Competition",
+    "theme": "Recent Trends in Information Technology",
+    "host_institute": "R. N. G. Patel Institute of Technology",
+    "host_department": "Information Technology (IT) Department",
+    "venue": "R. N. G. Patel Institute of Technology, Bardoli",
+    "date": "2026-09-11",
+    "day": "Friday",
+    "organizers": [
+      "IEEE Gujarat Section",
+      "IEEE RNGPIT Student Branch",
+      "IEEE Signal Processing Society RNGPIT Student Branch Chapter",
+      "IEEE Women in Engineering RNGPIT Student Branch Chapter"
+    ]
+  },
+  "technical_tracks": [
+    {
+      "track_id": 1,
+      "title": "Artificial Intelligence & Deep Learning",
+      "sub_topics": [
+        "ML & DL",
+        "Computer Vision",
+        "NLP",
+        "Generative AI"
+      ]
+    },
+    {
+      "track_id": 2,
+      "title": "Cybersecurity, Privacy & Blockchain",
+      "sub_topics": [
+        "Ethical Hacking",
+        "Network Security",
+        "Digital Forensics",
+        "Cryptography",
+        "Blockchain",
+        "Secure Systems"
+      ]
+    },
+    {
+      "track_id": 3,
+      "title": "Sustainable Engineering & Smart Technologies",
+      "sub_topics": [
+        "Smart Cities",
+        "Renewable Energy",
+        "Green Computing",
+        "Healthcare Tech",
+        "Agri Tech",
+        "Env. Monitoring"
+      ]
+    },
+    {
+      "track_id": 4,
+      "title": "Internet of Things, Embedded Systems & Robotics",
+      "sub_topics": [
+        "IoT Solutions",
+        "Embedded Systems",
+        "Robotics",
+        "Smart Sensors",
+        "Edge Computing",
+        "Autonomous Systems"
+      ]
+    },
+    {
+      "track_id": 5,
+      "title": "Healthcare Technologies & Biomedical Engineering",
+      "sub_topics": [
+        "AI in Healthcare",
+        "Biomedical Signal Processing",
+        "Medical Image Analysis",
+        "Digital Health",
+        "Wearables",
+        "Telemedicine"
+      ]
+    },
+    {
+      "track_id": 6,
+      "title": "Open Innovation & Interdisciplinary Research",
+      "sub_topics": [
+        "Social Impact Solutions",
+        "Assistive Tech",
+        "Smart Education",
+        "AR/VR",
+        "Product Design",
+        "Interdisciplinary"
+      ]
+    }
+  ],
+  "guidelines": {
+    "team_size": {
+      "min_members": 2,
+      "max_members": 4
+    },
+    "presentation": {
+      "total_time_minutes": 10,
+      "presentation_minutes": 7,
+      "q_and_a_minutes": 3
+    },
+    "format": "Single Round Evaluation",
+    "eligibility": [
+      "UG/PG Students",
+      "Research Scholars"
+    ]
+  },
+  "contact": {
+    "email": "ieee_sb@rngpit.ac.in",
+    "phone": "+91 99130 96458",
+    "instagram": "rngpit.ieee.committee",
+    "registration": "QR Code provided on flyer"
+  },
+  "document_date": "14/08/2026",
+  "schedule": {
+    "deadline": "31 Aug",
+    "acceptance": "5 Sep",
+    "event_date": "11 Sep"
+  }
+}
